@@ -13,4 +13,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\MyMathLibrary\MyMathLibrary.fsproj" />
+  </ItemGroup>
+
 </Project>

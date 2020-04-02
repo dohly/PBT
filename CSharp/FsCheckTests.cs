@@ -1,5 +1,6 @@
 ﻿using FsCheck;
 using FsCheck.Xunit;
+using MyMathLibrary;
 
 namespace CSharp
 {

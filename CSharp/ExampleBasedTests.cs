@@ -1,4 +1,4 @@
-﻿using System;
+﻿using MyMathLibrary;
 using Xunit;
 
 namespace CSharp
